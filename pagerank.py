@@ -5,7 +5,7 @@
 
 
 import numpy as np
-from scipy.sparse import dok_matrix
+#from scipy.sparse import dok_matrix
 import pickle
 
 import time
@@ -16,8 +16,8 @@ a = np.full([dims],1)
 # In[2]:
 
 
-x = np.asarray([1,2,1,1,11,1])
-np.where(x == 1)
+#x = np.asarray([1,2,1,1,11,1])
+#np.where(x == 1)
 
 
 # In[3]:
